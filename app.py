@@ -139,4 +139,4 @@ def index():
         target_url = request.form.get('url')
         if target_url:
             analysis = analyze_url(target_url)
-    return render_template_string(
+st.html(html_code)
